@@ -7,7 +7,7 @@
   "main": "homebridge-homelink.js",
   "repository": { 
     "type" : "git", 
-    "url" : "https://github.com/kkonstan/homebridge-rfbuttons.git"
+    "url" : "https://github.com/kkonstan/homebridge-homelink.git"
   },
   "dependencies": {
     "rpi-433-v3": "https://github.com/jmc265/rpi-433-v3"
