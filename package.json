@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-homelink",
+  "description": "HomeLink buttons Homekit integration",
+  "version": "0.0.1",
+  "license": "BSD-2-Clause",
+  "author": "Konstantinos Konstantinidis",
+  "main": "homebridge-homelink.js",
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/kkonstan/homebridge-rfbuttons.git"
+  },
+  "dependencies": {
+    "rpi-433-v3": "https://github.com/jmc265/rpi-433-v3"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}
